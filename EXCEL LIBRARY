@@ -1,3 +1,7 @@
+// Excel Script Library (Vba, Let, Lambda, Python, AI Labs, ...)
+// Paolo Falcone, Nov 2025
+
+
 '  *** Evidenzia la riga corrente in giallo ***
 Private Sub Worksheet_SelectionChange(ByVal Target As Range)
 Cells.Interior.Pattern = xlNone
